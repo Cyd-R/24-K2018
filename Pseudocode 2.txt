@@ -1,0 +1,20 @@
+Task 2: Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with one being used for the operator)
+
+1.	START
+2.	
+3.	// INPUT/OUTPUT
+4.	INPUT NU1
+5.	INPUT OPERATOR 
+6.	INPUT NU2
+
+7.	// Variables 
+8.	SET Results to 0
+
+9.	// PROCESS 
+10.	Set Result = NU1 OPERATOR NU2
+
+11.	//Results
+12.	PRINT Result 
+
+13.	END
+

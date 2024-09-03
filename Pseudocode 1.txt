@@ -1,0 +1,18 @@
+Task1: Take three variables as input and add them without using the + operator 
+
+1.	START
+
+2.	// INPUT/OUTPUT
+3.	INPUT NU1
+4.	INPUT NU2
+5.	INPUT NU3
+
+6.	// variable and Initialization
+7.	SET sum  to 0
+
+8.	// Process Steps
+9.	SET sum to –(-NU1-NU2-NU3)
+
+10.	// Results
+11.	PRINT sum
+12.	END

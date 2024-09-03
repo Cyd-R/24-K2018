@@ -1,0 +1,13 @@
+Task 3: Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+1.	Start
+2.	Ask user to enter Number1
+3.	Ask user to enter Operator
+4.	Ask user to enter Number2
+5.	If Operator = “+” then set Result = Number1 + Number2
+6.	Else If Operator = “-” then set Result = Number1 – Number2
+7.	Else If Operator = “*” then set Result = Number1 * Number2
+8.	Else If Operator = “/” then set Result = Number1 / Number2
+9.	Else If Operator = “%” then set Result = Number1 % Number2
+10.	Else print “Syntax error”
+11.	Print Result
+12.	End
